@@ -428,7 +428,9 @@ const selezionaDiv = () => {
 /* ESERCIZIO 21
   Scrivi una funzione per selezionare ogni tag <td> all'interno della pagina.
 */
-Riccardo questi li so fare Giuro! solo che non ho tempo xD
+const selezionatd = () => {
+  const td = document.querySelectorAll("td");
+};
 /* ESERCIZIO 22
   Scrivi una funzione che, tramite un ciclo, stampa in console il testo contenuto in ogni tag <td> all'interno della pagina.
 */
